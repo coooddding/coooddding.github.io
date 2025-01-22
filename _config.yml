@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "코딩영혼"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "개발자"
 description              : "PROGRAMMING PRATICE JOURNAL."
 url                      : "https://coooddding.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
